@@ -1,1 +1,1 @@
-# repositpory-for-apk-3wfqewfd32134
+# Administracion del instalador de FrikiMusic for desktop
