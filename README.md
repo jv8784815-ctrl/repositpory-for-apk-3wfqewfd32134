@@ -1,1 +1,3 @@
-# Administracion del instalador de FrikiMusic for desktop
+# Administracion de las descargas de FrikiMusic
+
+# APK and DESKTOP
